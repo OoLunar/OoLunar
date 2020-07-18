@@ -8,7 +8,7 @@
 
 - My website and project showcasing is over at [ForSaken Borders](https://forsaken-borders.net)
 
-- I'm wanting to learn [C++ and Unreal Engine](C++ and Unreal Engine)
+- I'm wanting to learn C++ and Unreal Engine
 
 - I know Bash, C#, Rust, HTML-CSS-JS and Java fluently. I'm always down for helping on those languages.
 
