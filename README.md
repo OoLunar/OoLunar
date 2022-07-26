@@ -1,13 +1,12 @@
-<h1 align="center">All Around Developer, Lunar!</h1>
-<h3 align="center">A developer who works with a little bit of everything. From frontend, to backend, to console apps, to desktop apps, I'm familiar with most things.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oolunar" alt="oolunar" /> </p>
+<h1 align="center">Lunar Starstrum <img src="https://komarev.com/ghpvc/?username=oolunar" alt="[OoLunar View Count]"/></h1>
+<h3 align="center">C# and Void Linux enthusiast. Any Pronouns and Asexual.</h3>
 
-- I’m currently working on [Tomoe, a Discord Moderation bot](https://github.com/OoLunar/Tomoe)
+- Currently working on [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus), the .NET Discord library.
+- Always interested in general concepts such as concurrency, dependency injection, async/await, or the innards of how protocols work.
+- I will flaunt my stupidity out of sheer spite.
+-  Intimately familiar with C# reflection. Attempting to learn Rust.
+- Casual enjoyer of IT-related things (Bash, Docker, Github Actions(?))
+- Not an advertisement: https://linktr.ee/oolunar
+- Do not reach out to me for web development.
 
-- My website and project showcasing is over at [ForSaken Borders](https://forsaken-borders.net)
-
-- I'm wanting to learn C, C++ and Unreal Engine
-
-- I know C# very well. I'm familiar with Bash, HTML-CSS-JS, Java and Python. 
-
-- Reach me at lunar@forsaken-borders.net
+You can always reach me at my email lunar@forsaken-borders.net, or by joining my Discord https://discord.gg/Bsv7zSFygc
