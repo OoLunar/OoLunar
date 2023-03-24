@@ -6,7 +6,7 @@ Email: lunar@forsaken-borders.net
 Discord: Lunar#9860
 
 # Education
-- Self taught for 4 years, working with mainly C#.
+- Self taught for 5 years, working with mainly C#.
 - I took a year long programming course in high school, which taught the basics of Java and OOP. I gained very little experience from it and never wish to take it again.
 
 # Projects
