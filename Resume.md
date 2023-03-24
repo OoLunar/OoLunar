@@ -18,7 +18,7 @@ Discord: Lunar#9860
 - [DSharpPlus-Doc-Bot](https://github.com/OoLunar/DSharpPlus-Doc-Bot): I did not write the master branch, that was done by https://github.com/SubZero0, who modified their [D.NET DocBot](https://github.com/SubZero0/DiscordNet-Docs) to work with DSharpPlus. What I did write was the `rewrite/v2` and `rewrite/v3` branches, which use reflection to generate documentation from the loaded assemblies. I intend to continue working on this project and source gen the documentation using the Roslyn API, however I have not had the motivation to do so.
 
 # Languages
-- C# (4 years). Most proficient.
+- C# (5 years). Most proficient.
 - Java (2 years). Will require money in order for me to touch it again.
 - Python (N/A). I can read it, but I can't write it easily.
 - Rust (4-8 months). A great language, though I'll need to learn more about it before I can use it effectively.
