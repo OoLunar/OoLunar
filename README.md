@@ -9,4 +9,4 @@
 - Not an advertisement: https://linktr.ee/oolunar
 - Do **not** reach out to me for web development.
 
-You can always reach me at my email lunar@forsaken-borders.net, or by joining my Discord https://discord.gg/Bsv7zSFygc
+You can always reach me at my email lunar@forsaken-borders.net, or by joining my Discord https://discord.gg/6bjPzA8P6h
