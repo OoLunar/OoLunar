@@ -11,10 +11,13 @@ You can reach me via email at lunar@forsaken-borders.net, send me a direct messa
 
 # Tools I work with
 
+<p align="center">
 ![](https://github.com/OoLunar/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/OoLunar/github-stats/blob/master/generated/languages.svg)
+</p>
 
 ## Languages
+<p align="center">
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -31,8 +34,10 @@ You can reach me via email at lunar@forsaken-borders.net, send me a direct messa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</p>
 
 ## Frameworks
+<p align="center">
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
@@ -42,8 +47,10 @@ You can reach me via email at lunar@forsaken-borders.net, send me a direct messa
 ![NUnit](https://img.shields.io/badge/NUnit-5C2D91?style=for-the-badge&logo=nunit&logoColor=white)
 ![Rocket.rs](https://img.shields.io/badge/Rocket.rs-DD0031?style=for-the-badge&logo=rust&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+</p>
 
 ## Tools
+<p align="center">
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -62,8 +69,10 @@ You can reach me via email at lunar@forsaken-borders.net, send me a direct messa
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+</p>
 
 ## Systems
+<p align="center">
 ![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -75,3 +84,4 @@ You can reach me via email at lunar@forsaken-borders.net, send me a direct messa
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Void](https://img.shields.io/badge/Void_Linux-49535C?style=for-the-badge&logo=void-linux&logoColor=white)
+</p>
